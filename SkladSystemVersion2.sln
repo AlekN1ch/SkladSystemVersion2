@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkladSystemVersion2", "SkladSystemVersion2.csproj", "{041155A1-CD7F-4D06-A47A-6605C609AF84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{041155A1-CD7F-4D06-A47A-6605C609AF84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{041155A1-CD7F-4D06-A47A-6605C609AF84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{041155A1-CD7F-4D06-A47A-6605C609AF84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{041155A1-CD7F-4D06-A47A-6605C609AF84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {862DE47B-1377-4A58-B381-534379B7AA61}
+	EndGlobalSection
+EndGlobal
